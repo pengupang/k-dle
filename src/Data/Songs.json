@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Attention",
+    "album": "/img/NewJeans_New_Jeans.jpg",
+    "genre": "R&B, Pop, New jack swing",
+    "duration": "3:00",
+    "released": "2022",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Hype Boy",
+    "album": "/img/NewJeans_New_Jeans.jpg",
+    "genre": "Dance",
+    "duration": "2:59",
+    "released": "2022",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Cookie",
+    "album": "/img/NewJeans_New_Jeans.jpg",
+    "genre": "Dance",
+    "duration": "3:55",
+    "released": "2022",
+    "language": "Korean",
+    "producer": "Jinsu Park",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Hurt",
+    "album": "/img/NewJeans_New_Jeans.jpg",
+    "genre": "R&B, Soul",
+    "duration": "2:57",
+    "released": "2022",
+    "language": "Korean",
+    "producer": "Gigi, Amanda Lundstedt",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Ditto",
+    "album": "/img/Ditto.jpg",
+    "genre": "K-pop, Korean Dance, Pop, Baltimore Club, Electronic Dance Music",
+    "duration": "3:05",
+    "released": "2022",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "OMG",
+    "album": "/img/NJZ_OMG.jpg",
+    "genre": "Hip-hop, R&B, Baltimore Club, Dance",
+    "duration": "3:32",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Jinsu Park",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Zero",
+    "album": "/img/Zero.jpg",
+    "genre": "Dance-pop",
+    "duration": "2:34",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Monro",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Be Who You Are (Real Magic)",
+    "album": "/img/Be_Who_You_Are_(Real Magic).jpg",
+    "genre": "Pop",
+    "duration": "3:09",
+    "released": "2023",
+    "language": "Korean, English, Spanish",
+    "producer": "Jon Batiste, Pete Nappi, Tenroc, Jon Bellion",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Zero (J.I.D Remix)",
+    "album": "/img/Zero_(J.I.D Remix).jpg",
+    "genre": "Dance-pop",
+    "duration": "3:44",
+    "released": "2023",
+    "language": "Korean, English",
+    "producer": "Monro, Josh Cumbee, Christo",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "New Jeans",
+    "album": "/img/GetUp.jpg",
+    "genre": "Dance",
+    "duration": "1:48",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Jinsu Park, Frankie Scoca",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Super Shy",
+    "album": "/img/GetUp.jpg",
+    "genre": "Dance",
+    "duration": "2:34",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Frankie Scoca",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "ETA",
+    "album": "/img/GetUp.jpg",
+    "genre": "Dance",
+    "duration": "2:31",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Cool With You",
+    "album": "/img/GetUp.jpg",
+    "genre": "Dance",
+    "duration": "2:27",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Park Jin Su, Frankie Scoca",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Get Up",
+    "album": "/img/GetUp.jpg",
+    "genre": "Dance",
+    "duration": "0:36",
+    "released": "2023",
+    "language": "English",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "ASAP",
+    "album": "/img/GetUp.jpg",
+    "genre": "Dance",
+    "duration": "2:14",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Henriette Motzfeldt, 250, Catharina Stoltenberg",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Beautiful Restriction",
+    "album": "/img/ATCY.jpg",
+    "genre": "Ballad",
+    "duration": "3:52",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Kim Jong Seo, Han Kyung Hae",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "GODS",
+    "album": "/img/GODS.jpg",
+    "genre": "EDM",
+    "duration": "3:40",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Sebastien Najand, Alex Seaver, Jayson DeZuzio, Madalin 'MADS' Rosioru",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Our Night is more beautiful than your Day",
+    "album": "/img/NewJeans_X_My_Demon.jpg",
+    "genre": "Ballad",
+    "duration": "3:12",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Bae Young Jun",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Ditto (250 Remix)",
+    "album": "/img/NJWMX.jpg",
+    "genre": "Electronic",
+    "duration": "3:21",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "OMG (FRNK Remix)",
+    "album": "/img/NJWMX.jpg",
+    "genre": "Electronic",
+    "duration": "3:30",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Jinsu Park",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Attention (250 Remix)",
+    "album": "/img/NJWMX.jpg",
+    "genre": "Electronic",
+    "duration": "3:01",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Hype Boy (250 Remix)",
+    "album": "/img/NJWMX.jpg",
+    "genre": "Electronic",
+    "duration": "4:11",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Cookie (FRNK Remix)",
+    "album": "/img/NJWMX.jpg",
+    "genre": "Electronic",
+    "duration": "3:32",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "Jinsu Park",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Hurt (250 Remix)",
+    "album": "/img/NJWMX.jpg",
+    "genre": "Electronic",
+    "duration": "3:44",
+    "released": "2023",
+    "language": "Korean",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "How Sweet",
+    "album": "/img/Hot_Sweet.jpg",
+    "genre": "Miami Bass",
+    "duration": "3:39",
+    "released": "2024",
+    "language": "Korean, English",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Bubble Gum",
+    "album": "/img/Hot_Sweet.jpg",
+    "genre": "R&B, Pop",
+    "duration": "3:20",
+    "released": "2024",
+    "language": "Korean, Japanese",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Supernatural",
+    "album": "/img/Supernatural.jpg",
+    "genre": "New Jack Swing",
+    "duration": "3:11",
+    "released": "2024",
+    "language": "Japanese, Korean, English",
+    "producer": "250",
+    "artist": "NewJeans"
+  },
+  {
+    "title": "Right Now",
+    "album": "/img/Supernatural.jpg",
+    "genre": "Drum n' Bass, Bedroom Pop",
+    "duration": "2:40",
+    "released": "2024",
+    "language": "Japanese,Korean",
+    "producer": "FRNK",
+    "artist": "NewJeans"
+  }
+]
