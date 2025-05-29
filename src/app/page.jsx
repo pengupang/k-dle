@@ -9,6 +9,26 @@ const normalizeString = (str) => {
   return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 };
 
+// Paso 1: Función para comparar atributos
+const compararAtributos = (adivinada, correcta) => {
+  const comparar = (a, b) => {
+    if (a === b) return "correcto";
+    // Ejemplo de "casi": si ambos strings comparten alguna parte,
+    // o puedes ajustar la lógica según tus necesidades.
+    if (a && b && a.split(",").some(val => b.includes(val.trim()))) return "casi";
+    return "incorrecto";
+  };
+
+  return {
+    title: comparar(adivinada.title, correcta.title),
+    artist: comparar(adivinada.artist, correcta.artist),
+    released: comparar(adivinada.released, correcta.released),
+    language: comparar(adivinada.language, correcta.language),
+    genre: comparar(adivinada.genre, correcta.genre),
+    duration: comparar(adivinada.duration, correcta.duration),
+  };
+};
+
 export default function Page() {
   const [cancionDelDia, setCancionDelDia] = useState(null);
   const [cancionIngresada, setCancionIngresada] = useState("");
@@ -58,12 +78,9 @@ export default function Page() {
     setSelectedSuggestionIndex(-1);
     if (value.length > 0) {
       const normalizedValue = normalizeString(value.toLowerCase());
-      const filteredSugerencias = songs
-      .filter(song =>
+      const filteredSugerencias = songs.filter(song =>
         normalizeString(song.title.toLowerCase()).includes(normalizedValue)
       );
-    
-
       setSugerencias(filteredSugerencias);
     } else {
       setSugerencias([]);
@@ -72,7 +89,7 @@ export default function Page() {
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {
-      const suggestion = 
+      const suggestion =
         selectedSuggestionIndex >= 0
           ? sugerencias[selectedSuggestionIndex]
           : sugerencias[0];
@@ -93,19 +110,14 @@ export default function Page() {
       setIntentos(intentos - 1);
     }
     setSugerencias([]);
-    const adivinada = suggestion;
-    console.log("Canción adivinada:", adivinada);
-    
-    if (!adivinada) {
-    console.warn("No se encontró la canción:", suggestion);
-    return;
-    }
 
-    setAdivinanzas(prev => [adivinada, ...prev]);
+    // Paso 2: Comparar y guardar la adivinanza con resultados de la comparación
+    const resultadoComparacion = compararAtributos(suggestion, cancionDelDia);
+    setAdivinanzas(prev => [{ ...suggestion, resultadoComparacion }, ...prev]);
 
-    if (adivinada.title === cancionDelDia.title) {
+    if (suggestion.title === cancionDelDia.title) {
       setShowDetalle(true);
-      setCancionDelDia(adivinada); // asegúrate de tener toda la info
+      setCancionDelDia(suggestion); // Asegúrate de tener toda la info
     }
   };
 
@@ -118,8 +130,6 @@ export default function Page() {
 
   return (
     <div>
-      
-
       <div className={`p-6 ${showModal ? 'opacity-50' : ''}`}>
         <Title />
         <div className="px-50">
@@ -133,9 +143,8 @@ export default function Page() {
             disabled={showDetalle}
           />
         </div>
-        {/* Aquí puedes agregar una barra de intentos o cuadro de pistas si lo deseas */}
+        {/* Por ejemplo, podrías mostrar aquí el número de intentos o pistas */}
         <Grid adivinanzas={adivinanzas} cancionDelDia={cancionDelDia} />
-        {/* Aquí podrías agregar detalles de la canción si fue adivinada */}
       </div>
     </div>
   );
