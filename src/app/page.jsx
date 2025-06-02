@@ -72,18 +72,23 @@ export default function Page() {
   };
 
   const handleInputChange = (e) => {
-    if (showDetalle) return;
-    const value = e.target.value;
-    setCancionIngresada(value);
-    setSelectedSuggestionIndex(-1);
-    if (value.length > 0) {
-      const normalizedValue = normalizeString(value.toLowerCase());
-      const filteredSugerencias = songs.filter(song =>
-        normalizeString(song.title.toLowerCase()).includes(normalizedValue)
-      );
-      setSugerencias(filteredSugerencias);
+    const query = e.target.value;
+    setCancionIngresada(query);
+    setSelectedSuggestionIndex(-1); // Resetear selección al escribir
+
+    if (query.length > 0) {
+      const firstCharQuery = query.charAt(0).toLowerCase();
+
+      const filtered = songs.filter(song => {
+        const titleFirstChar = song.title.charAt(0).toLowerCase();
+        
+
+        // Filtra si el título O el artista empiezan con la primera letra de la consulta
+        return titleFirstChar === firstCharQuery ;
+      });
+      setSugerencias(filtered);
     } else {
-      setSugerencias([]);
+      setSugerencias([]); // Si el input está vacío, no hay sugerencias
     }
   };
 
