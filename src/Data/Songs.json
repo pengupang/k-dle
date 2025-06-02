@@ -1,282 +1,650 @@
 [
   {
-    "title": "Attention",
-    "album": "/img/NewJeans_New_Jeans.jpg",
-    "genre": "R&B, Pop, New jack swing",
-    "duration": "3:00",
-    "released": "2022",
+    "title": "ELEVEN",
+    "album": "/img/ive/Eleven.jpg",
+    "artist": "IVE",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2021",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Take It",
+    "album": "/img/ive/Eleven.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2021",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "LOVE DIVE",
+    "album": "/img/ive/Love_Dive.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2022",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "ROYAL",
+    "album": "/img/ive/Love_Dive.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2022",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "After LIKE",
+    "album": "/img/ive/After_Like.png",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2022",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "My Satisfaction",
+    "album": "/img/ive/After_Like.png",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2022",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "ELEVEN (Japanese Version)",
+    "album": "/img/ive/Eleven_Japanese.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2022",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Queen of Hearts",
+    "album": "/img/ive/Eleven_Japanese.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2022",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "LOVE DIVE (Japanese Version)",
+    "album": "/img/ive/Love_Dive_Japanese.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Kitsch",
+    "album": "/img/ive/Kitsch",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "I AM",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Blue Blood",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Heroine",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Mine",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Hypnosis",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "NOT YOUR GIRL",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Next Page",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Cherish",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Shine With Me",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "I WANT",
+    "album": "/img/ive/I_want.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "WAVE",
+    "album": "/img/ive/Wave.png",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Classic",
+    "album": "/img/ive/Wave.png",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "After LIKE",
+    "album": "/img/ive/Wave.png",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Take It",
+    "album": "/img/ive/Wave.png",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Either Way",
+    "album": "/img/ive/Either_Way.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Off The Record",
+    "album": "/img/Off_REcord.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Baddie",
+    "album": "/img/ive/I_ve_Mine.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Holy Moly",
+    "album": "/img/ive/I_ve_Mine.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "OTT",
+    "album": "/img/ive/I_ve_Mine.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Payback",
+    "album": "/img/ive/I_ve_Mine.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Lips",
+    "album": "/img/ive/I_ve-IVE.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2023",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "All Night (feat. Saweetie)",
+    "album": "/img/ive/All_Night.jpg",
+    "artist": "IVE",
+    "language": "English",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Will",
+    "album": "/img/ive/Will_Japanese.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Will -Korean Ver.",
+    "album": "/img/ive/Will_Korean.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Heya",
+    "album": "/img/ive/Switch.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Accendio",
+    "album": "/img/ive/Switch.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Blue Heart",
+    "album": "/img/ive/Switch.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Ice Queen",
+    "album": "/img/ive/Switch.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "WOW",
+    "album": "/img/ive/Switch.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "RESET",
+    "album": "/img/ive/Switch.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "CRUSH",
+    "album": "/img/ive/Crush.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "I AM",
+    "album": "/img/ive/Alive.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Off The Record",
+    "album": "/img/ive/Alive.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Baddie",
+    "album": "/img/ive/Alive.jpg",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Supernova Love",
+    "album": "/img/ive/Supernova_Love.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "SUMMER FESTA",
+    "album": "/img/ive/Summer_Festa.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2024",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "DARE ME",
+    "album": "/img/ive/Dare_Me.png",
+    "artist": "IVE",
+    "language": "Japanese",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "REBEL HEART",
+    "album": "/img/ive/Rebel_Hearts.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "ATTITUDE",
+    "album": "/img/ive/Emphaty.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Thank U",
+    "album": "/img/ive/Emphaty.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "You Wanna Cry",
+    "album": "/img/ive/Emphaty.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "FLU",
+    "album": "/img/ive/Emphaty.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "TKO",
+    "album": "/img/ive/Emphaty.jpg",
+    "artist": "IVE",
+    "language": "Korean",
+    "released": "2025",
+    "generation": "4th Generation"
+  },
+  {
+    "title": "Attention",
+    "album": "/img/njz/NewJeans_New_Jeans.jpg",
+    "artist": "NewJeans",
+    "language": "Korean",
+    "released": "2022",
+    "generation": "4th Generation"
   },
   {
     "title": "Hype Boy",
-    "album": "/img/NewJeans_New_Jeans.jpg",
-    "genre": "Dance",
-    "duration": "2:59",
-    "released": "2022",
+    "album": "/img/njz/NewJeans_New_Jeans.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2022",
+    "generation": "4th Generation"
   },
   {
     "title": "Cookie",
-    "album": "/img/NewJeans_New_Jeans.jpg",
-    "genre": "Dance",
-    "duration": "3:55",
-    "released": "2022",
+    "album": "/img/njz/NewJeans_New_Jeans.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Jinsu Park",
-    "artist": "NewJeans"
+    "released": "2022",
+    "generation": "4th Generation"
   },
   {
     "title": "Hurt",
-    "album": "/img/NewJeans_New_Jeans.jpg",
-    "genre": "R&B, Soul",
-    "duration": "2:57",
-    "released": "2022",
+    "album": "/img/njz/NewJeans_New_Jeans.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Gigi, Amanda Lundstedt",
-    "artist": "NewJeans"
+    "released": "2022",
+    "generation": "4th Generation"
   },
   {
     "title": "Ditto",
-    "album": "/img/Ditto.jpg",
-    "genre": "K-pop, Korean Dance, Pop, Baltimore Club, Electronic Dance Music",
-    "duration": "3:05",
-    "released": "2022",
+    "album": "/img/njz/njz/Ditto.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2022",
+    "generation": "4th Generation"
   },
   {
     "title": "OMG",
-    "album": "/img/NJZ_OMG.jpg",
-    "genre": "Hip-hop, R&B, Baltimore Club, Dance",
-    "duration": "3:32",
-    "released": "2023",
+    "album": "/img/njz/NJZ_OMG.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Jinsu Park",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Zero",
-    "album": "/img/Zero.jpg",
-    "genre": "Dance-pop",
-    "duration": "2:34",
-    "released": "2023",
+    "album": "/img/njz/Zero.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Monro",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Be Who You Are (Real Magic)",
-    "album": "/img/Be_Who_You_Are_(Real Magic).jpg",
-    "genre": "Pop",
-    "duration": "3:09",
-    "released": "2023",
+    "album": "/img/njz/Be_Who_You_Are_(Real Magic).jpg",
+    "artist": "NewJeans",
     "language": "Korean, English, Spanish",
-    "producer": "Jon Batiste, Pete Nappi, Tenroc, Jon Bellion",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Zero (J.I.D Remix)",
-    "album": "/img/Zero_(J.I.D Remix).jpg",
-    "genre": "Dance-pop",
-    "duration": "3:44",
-    "released": "2023",
+    "album": "/img/njz/Zero_(J.I.D Remix).jpg",
+    "artist": "NewJeans",
     "language": "Korean, English",
-    "producer": "Monro, Josh Cumbee, Christo",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "New Jeans",
-    "album": "/img/GetUp.jpg",
-    "genre": "Dance",
-    "duration": "1:48",
-    "released": "2023",
+    "album": "/img/njz/GetUp.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Jinsu Park, Frankie Scoca",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Super Shy",
-    "album": "/img/GetUp.jpg",
-    "genre": "Dance",
-    "duration": "2:34",
-    "released": "2023",
+    "album": "/img/njz/GetUp.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Frankie Scoca",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "ETA",
-    "album": "/img/GetUp.jpg",
-    "genre": "Dance",
-    "duration": "2:31",
-    "released": "2023",
+    "album": "/img/njz/GetUp.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Cool With You",
-    "album": "/img/GetUp.jpg",
-    "genre": "Dance",
-    "duration": "2:27",
-    "released": "2023",
+    "album": "/img/njz/GetUp.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Park Jin Su, Frankie Scoca",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Get Up",
-    "album": "/img/GetUp.jpg",
-    "genre": "Dance",
-    "duration": "0:36",
-    "released": "2023",
+    "album": "/img/njz/GetUp.jpg",
+    "artist": "NewJeans",
     "language": "English",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "ASAP",
-    "album": "/img/GetUp.jpg",
-    "genre": "Dance",
-    "duration": "2:14",
-    "released": "2023",
+    "album": "/img/njz/GetUp.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Henriette Motzfeldt, 250, Catharina Stoltenberg",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Beautiful Restriction",
-    "album": "/img/ATCY.jpg",
-    "genre": "Ballad",
-    "duration": "3:52",
-    "released": "2023",
+    "album": "/img/njz/ATCY.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Kim Jong Seo, Han Kyung Hae",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "GODS",
-    "album": "/img/GODS.jpg",
-    "genre": "EDM",
-    "duration": "3:40",
-    "released": "2023",
+    "album": "/img/njz/GODS.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Sebastien Najand, Alex Seaver, Jayson DeZuzio, Madalin 'MADS' Rosioru",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Our Night is more beautiful than your Day",
-    "album": "/img/NewJeans_X_My_Demon.jpg",
-    "genre": "Ballad",
-    "duration": "3:12",
-    "released": "2023",
+    "album": "/img/njz/NewJeans_X_My_Demon.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Bae Young Jun",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Ditto (250 Remix)",
-    "album": "/img/NJWMX.jpg",
-    "genre": "Electronic",
-    "duration": "3:21",
-    "released": "2023",
+    "album": "/img/njz/NJWMX.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "OMG (FRNK Remix)",
-    "album": "/img/NJWMX.jpg",
-    "genre": "Electronic",
-    "duration": "3:30",
-    "released": "2023",
+    "album": "/img/njz/NJWMX.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Jinsu Park",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Attention (250 Remix)",
-    "album": "/img/NJWMX.jpg",
-    "genre": "Electronic",
-    "duration": "3:01",
-    "released": "2023",
+    "album": "/img/njz/NJWMX.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Hype Boy (250 Remix)",
-    "album": "/img/NJWMX.jpg",
-    "genre": "Electronic",
-    "duration": "4:11",
-    "released": "2023",
+    "album": "/img/njz/NJWMX.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Cookie (FRNK Remix)",
-    "album": "/img/NJWMX.jpg",
-    "genre": "Electronic",
-    "duration": "3:32",
-    "released": "2023",
+    "album": "/img/njz/NJWMX.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "Jinsu Park",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "Hurt (250 Remix)",
-    "album": "/img/NJWMX.jpg",
-    "genre": "Electronic",
-    "duration": "3:44",
-    "released": "2023",
+    "album": "/img/njz/NJWMX.jpg",
+    "artist": "NewJeans",
     "language": "Korean",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2023",
+    "generation": "4th Generation"
   },
   {
     "title": "How Sweet",
-    "album": "/img/Hot_Sweet.jpg",
-    "genre": "Miami Bass",
-    "duration": "3:39",
-    "released": "2024",
+    "album": "/img/njz/Hot_Sweet.jpg",
+    "artist": "NewJeans",
     "language": "Korean, English",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2024",
+    "generation": "4th Generation"
   },
   {
     "title": "Bubble Gum",
-    "album": "/img/Hot_Sweet.jpg",
-    "genre": "R&B, Pop",
-    "duration": "3:20",
-    "released": "2024",
+    "album": "/img/njz/Hot_Sweet.jpg",
+    "artist": "NewJeans",
     "language": "Korean, Japanese",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2024",
+    "generation": "4th Generation"
   },
   {
     "title": "Supernatural",
-    "album": "/img/Supernatural.jpg",
-    "genre": "New Jack Swing",
-    "duration": "3:11",
-    "released": "2024",
+    "album": "/img/njz/Supernatural.jpg",
+    "artist": "NewJeans",
     "language": "Japanese, Korean, English",
-    "producer": "250",
-    "artist": "NewJeans"
+    "released": "2024",
+    "generation": "4th Generation"
   },
   {
     "title": "Right Now",
-    "album": "/img/Supernatural.jpg",
-    "genre": "Drum n' Bass, Bedroom Pop",
-    "duration": "2:40",
-    "released": "2024",
+    "album": "/img/njz/Supernatural.jpg",
+    "artist": "NewJeans",
     "language": "Japanese,Korean",
-    "producer": "FRNK",
-    "artist": "NewJeans"
+    "released": "2024",
+    "generation": "4th Generation"
   }
 ]
