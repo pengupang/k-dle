@@ -184,7 +184,7 @@
     "generation": "4th Generation"
   },
   {
-    "title": "Take It",
+    "title": "Take It (Japanese version)",
     "album": "/img/ive/Wave.png",
     "artist": "IVE",
     "language": "Japanese",
@@ -201,7 +201,7 @@
   },
   {
     "title": "Off The Record",
-    "album": "/img/Off_REcord.jpg",
+    "album": "/img/ive/Off_REcord.jpg",
     "artist": "IVE",
     "language": "Korean",
     "released": "2023",
@@ -457,7 +457,7 @@
   },
   {
     "title": "Ditto",
-    "album": "/img/njz/njz/Ditto.jpg",
+    "album": "/img/njz/Ditto.jpg",
     "artist": "NewJeans",
     "language": "Korean",
     "released": "2022",
