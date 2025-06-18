@@ -1,6 +1,6 @@
 export default function Title() {
     return (
-        <div className="text-center md-8">
-            <img src="/img/k-title.png" alt="" />
+        <div className="flex justify-center m-8 ">
+            <img className="object-contain" src="/img/k-title.png" alt="" />
         </div>
     );}

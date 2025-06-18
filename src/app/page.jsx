@@ -6,6 +6,7 @@ import Title from "./Components/Tittle";
 import songs from '@/Data/Songs.json';
 
 const normalizeString = (str) => {
+
   // Convierte a minúsculas y luego normaliza
   return str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 };
@@ -31,7 +32,6 @@ const compararAtributos = (adivinada, correcta) => {
     artist: comparar(adivinada.artist, correcta.artist),
     released: comparar(adivinada.released, correcta.released),
     language: comparar(adivinada.language, correcta.language),
-    genre: comparar(adivinada.genre, correcta.genre),
     duration: comparar(adivinada.duration, correcta.duration),
   };
 };
@@ -164,20 +164,14 @@ export default function Page() {
     } else if (intentos - 1 === 0) { // Si este fue el último intento y no se adivinó
         setShowDetalle(true); // Muestra el detalle de la canción correcta
     }
+    setCancionIngresada(""); // Limpia el input después de seleccionar una sugerencia
   };
-
-  const handleOpenModal = () => {
-    if (!showDetalle) setShowModal(true);
-  };
-
-  const handleCloseModal = () => setShowModal(false);
-  const handleCloseDetalle = () => setShowDetalle(false);
 
   return (
     <div>
       <div className={`p-6 ${showModal ? 'opacity-50' : ''}`}>
         <Title />
-        <div className="px-50">
+        <div className=" px-0 sm:px-0 md:px-0 lg:px-50 xl:px-50   ">
           <SearchBar
             cancionIngresada={cancionIngresada}
             handleInputChange={handleInputChange}
