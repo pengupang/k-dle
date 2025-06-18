@@ -1,5 +1,5 @@
 import { MinusIcon } from '@heroicons/react/24/outline';
-import SongCard from './SongCard';
+import SongCard from './songCard';
 
 export default function Grid({ adivinanzas, cancionDelDia }) {
   return (
